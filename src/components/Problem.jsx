@@ -142,14 +142,14 @@ export default function Problem() {
             </div>
             <div>
               <p className="font-black text-slate-900 dark:text-white text-base mb-1">
-                ...and many more, as per your need
+                ...and many more problems like yours
               </p>
               <p className="text-slate-500 dark:text-slate-400 text-sm leading-snug">
-                Every business has unique challenges. If your problem isn&apos;t listed above — I still solve it. Just tell me what&apos;s holding you back.
+                Every business has unique challenges holding it back. If yours isn&apos;t listed above — chances are, I&apos;ve seen it before.
               </p>
             </div>
             <span className="text-blue-600 dark:text-blue-400 text-sm font-bold group-hover:underline">
-              Tell me your problem →
+              Describe your challenge →
             </span>
           </motion.a>
         </div>
