@@ -1,5 +1,23 @@
 export const projects = [
   {
+    id: 0,
+    priority: "🚗 Featured Project",
+    name: "AutoDealer",
+    tagline: "Used Car & Bike Dealer Platform",
+    description:
+      "A complete marketplace platform for a certified pre-owned vehicle dealer — car & bike listings with photos, 200-point inspection badges, finance assistance info, WhatsApp enquiry integration, shortlist feature, and Google Maps showroom location.",
+    highlights: [
+      "Car & bike inventory with photo listings",
+      "200-point inspection certified badges",
+      "Finance assistance & loan info",
+      "WhatsApp enquiry + Google Maps integration",
+    ],
+    stack: ["React", "Cloudinary", "Vercel", "WhatsApp API"],
+    liveUrl: "https://auto-dealer-liard.vercel.app/",
+    color: "from-slate-600 to-blue-600",
+    icon: "🚗",
+  },
+  {
     id: 1,
     priority: "⭐ Top Project",
     name: "CalculateToday",
