@@ -13,13 +13,13 @@ export default function Portfolio() {
           className="text-center mb-7"
         >
           <span className="text-blue-600 dark:text-blue-400 font-semibold text-sm uppercase tracking-widest">
-            Live Projects
+            Work &amp; Concept Builds
           </span>
           <h2 className="text-2xl sm:text-3xl font-black text-slate-900 dark:text-white mt-3 mb-3">
-            Real Work. <span className="gradient-text">Real Results.</span>
+            Built End to End. <span className="gradient-text">By Me.</span>
           </h2>
           <p className="text-slate-600 dark:text-slate-400 text-base max-w-2xl mx-auto">
-            Every project below is live and working for a real client. Click to see it in action.
+            Every project below is live, working, and built entirely by me. Click to see it in action.
           </p>
         </motion.div>
 

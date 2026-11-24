@@ -1,11 +1,11 @@
 export const projects = [
   {
     id: 0,
-    priority: "🚗 Featured Project",
+    priority: "🚗 Concept Build",
     name: "AutoDealer",
     tagline: "Used Car & Bike Dealer Platform",
     description:
-      "A complete marketplace platform for a certified pre-owned vehicle dealer — car & bike listings with photos, 200-point inspection badges, finance assistance info, WhatsApp enquiry integration, shortlist feature, and Google Maps showroom location.",
+      "A complete marketplace platform for a pre-owned vehicle dealership — car & bike listings with photos, 200-point inspection badges, finance assistance info, WhatsApp enquiry integration, shortlist feature, and Google Maps showroom location. Self-initiated concept build.",
     highlights: [
       "Car & bike inventory with photo listings",
       "200-point inspection certified badges",
@@ -23,9 +23,9 @@ export const projects = [
     name: "CalculateToday",
     tagline: "Financial Calculator Web App",
     description:
-      "39 free financial calculators — SIP, EMI, Income Tax, GST & more. Fully SEO-optimised, globally deployed on Cloudflare CDN. Ranks on Google for high-intent finance keywords — built to scale globally.",
+      "43 free financial calculators — SIP, EMI, Income Tax, GST & more, plus 30 in-depth guides. Fully SEO-optimised, globally deployed on Cloudflare CDN. Ranks on Google for high-intent finance keywords — built to scale globally.",
     highlights: [
-      "39 free calculators in one app",
+      "43 free calculators + 30 guides",
       "Built with Next.js for blazing speed",
       "Globally deployed on Cloudflare CDN",
       "SEO-optimised — ranks on Google",
@@ -56,11 +56,11 @@ export const projects = [
   },
   {
     id: 4,
-    priority: "Business Website",
-    name: "Rudra Electricals",
-    tagline: "Solar Energy Business Website",
+    priority: "Concept Build",
+    name: "Solar Energy Business Website",
+    tagline: "4-Page Business Site with Admin CMS",
     description:
-      "A professional 4-page solar energy website with dark UI, government subsidy information, WhatsApp integration, online enquiry form, and an admin CMS panel — zero maintenance needed by the owner.",
+      "A professional 4-page solar energy website with dark UI, government subsidy information, WhatsApp integration, online enquiry form, and an admin CMS panel — zero maintenance needed by the owner. Self-initiated concept build.",
     highlights: [
       "Dark UI solar energy website",
       "Government Surya Ghar subsidy section",
@@ -71,6 +71,24 @@ export const projects = [
     liveUrl: "https://rudraelectricalssolarproject.pages.dev/",
     color: "from-yellow-500 to-orange-500",
     icon: "☀️",
+  },
+  {
+    id: 5,
+    priority: "Content Platform",
+    name: "PregnancySprout",
+    tagline: "Pregnancy & Baby Guide with 6 Free Tools",
+    description:
+      "A complete pregnancy and parenting resource — 40 week-by-week guides, 203 in-depth articles, a searchable 1,100+ baby name database, and 6 free interactive tools. Built for organic search with fast static delivery.",
+    highlights: [
+      "40 week-by-week pregnancy guides",
+      "203 articles + 1,100 baby names",
+      "6 tools: due date, ovulation, contraction timer",
+      "SEO-first structure and internal linking",
+    ],
+    stack: ["Next.js", "React", "SEO", "Cloudflare"],
+    liveUrl: "https://www.pregnancysprout.com",
+    color: "from-pink-500 to-rose-500",
+    icon: "🌱",
   },
 ];
 

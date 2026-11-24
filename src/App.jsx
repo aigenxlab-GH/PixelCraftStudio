@@ -6,7 +6,10 @@ import About from "./components/About";
 import Solution from "./components/Solution";
 import Problem from "./components/Problem";
 import Portfolio from "./components/Portfolio";
-import Testimonials from "./components/Testimonials";
+// Testimonials: hidden until real written client reviews exist.
+// The cards rendered 5 gold stars next to "Review pending", which reads as a
+// 5/5 rating no client actually gave. Re-enable once you have real quotes.
+// import Testimonials from "./components/Testimonials";
 import Process from "./components/Process";
 import WhyMe from "./components/WhyMe";
 import FAQ from "./components/FAQ";
@@ -52,7 +55,6 @@ export default function App() {
           <Process />
           <WhyMe />
           <Portfolio />
-          <Testimonials />
           <FAQ />
           <Stats />
           <Contact />
