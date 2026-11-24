@@ -27,7 +27,7 @@ export default function App() {
         <meta property="og:title" content="PixelCraft Studio — Websites & Apps That Work For Your Business" />
         <meta property="og:description" content="Custom websites & apps built for your exact business needs. Not templates. Not off-the-shelf SaaS." />
         <meta property="og:type" content="website" />
-        <link rel="canonical" href="https://pixelcraftstudio.in" />
+        <link rel="canonical" href="https://pixelcraftstudio.pages.dev" />
       </Helmet>
 
       <div className="relative min-h-screen bg-slate-50 dark:bg-[#0f172a] text-slate-900 dark:text-slate-200 transition-colors duration-300">
